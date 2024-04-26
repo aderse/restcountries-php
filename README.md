@@ -1,4 +1,4 @@
-# REST Countries - Fire Drill
+# REST Countries
 
 ## Notes
 
